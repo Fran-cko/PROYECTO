@@ -1,5 +1,5 @@
 # PROYECTO GRUPAL
-## COMPONENTE METODOLOGICO
+#COMPONENTE METODOLOGICO
 
 Este proyecto se hizo pensando en las siguientes fases de metodología:
 - Análisis del problema
